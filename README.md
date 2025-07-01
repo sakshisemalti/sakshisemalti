@@ -77,8 +77,4 @@ Now pivoting into **Machine Learning** to blend software with smart, data-driven
 
 ---
 
-![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshisemalti&show_icons=true&theme=tokyonight)
-
----
-
 > “For me, coding isn’t just work — it’s how I solve, learn, and create.”
