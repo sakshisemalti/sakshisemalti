@@ -1,6 +1,6 @@
 # 👋🏼 Hi, I'm Sakshi Semalti
 
-💻 Software Engineer | 🧠 AI Engineer in Progress | 🌐 Open Source Contributor
+💻 Software Engineer | ML Developer 👩‍💻 | 🌐 Open Source Contributor
 
 ---
 
