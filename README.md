@@ -63,7 +63,7 @@ Now pivoting into **Machine Learning** to blend software with smart, data-driven
 
 ---
 
-### 📚 Learning Goals (2024)
+### 📚 Learning Goals (2025)
 - ✅ Master **model tuning** and **cross-validation**
 - ✅ Learn **PyTorch**, **Transformers**, and **RAG (Retrieval Augmented Generation)**
 - ✅ Contribute to open-source ML libraries
