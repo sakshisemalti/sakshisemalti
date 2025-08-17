@@ -74,6 +74,8 @@ Now pivoting into **Machine Learning** to blend software with smart, data-driven
 
 - 🌐 [LinkedIn: sakshi-semalti](https://www.linkedin.com/in/sakshi-semalti/)
 - 📧 Email: sakshi.semalti5@gmail.com
+- 📄 [Resume (PDF)](https://yourgithublink.com/resume.pdf)
+- 🌐 [Portfolio Website](https://sakshisemalti.github.io)
 
 ---
 
