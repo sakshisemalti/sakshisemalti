@@ -2,7 +2,7 @@
 
 💻 Software Engineer | ML Developer 👩‍💻 
 
-My Portfolio - sakshisemalti[[https://sakshisemalti.vercel.app/]]
+My Portfolio - [sakshisemalti][https://sakshisemalti.vercel.app/]
 
 ---
 
