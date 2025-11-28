@@ -1,9 +1,6 @@
 # 👋🏼 Hi, I'm Sakshi Semalti
 
-💻 Software Engineer | ML Developer 👩‍💻 
-
-My Portfolio - [sakshisemalti](https://sakshisemalti.vercel.app/)
-
+💻 Software Engineer | ML Developer 👩‍💻
 ---
 
 ### 👩‍💻 About Me
@@ -81,6 +78,3 @@ Now pivoting into **Machine Learning** to blend software with smart, data-driven
 ---
 
 > “For me, coding isn’t just work — it’s how I solve, learn and create.”
-
-![Sakshi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sakshisemalti&theme=react-dark)
-
