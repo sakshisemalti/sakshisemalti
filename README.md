@@ -62,7 +62,9 @@ Now pivoting into **Machine Learning** to blend software with smart, data-driven
 
 ---
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={sakshisemalti5}&animated=true" alt="LeetCode Badges" />
+### 🏅 My LeetCode Badges
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=sakshisemalti5" alt="LeetCode Badges"/>
 
 ---
 
