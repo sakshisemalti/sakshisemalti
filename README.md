@@ -62,10 +62,7 @@ Now pivoting into **Machine Learning** to blend software with smart, data-driven
 
 ---
 
-### 📚 Learning Goals (2025)
-- ✅ Master **model tuning** and **cross-validation**
-- ✅ Learn **PyTorch**, **Transformers**, and **RAG (Retrieval Augmented Generation)**
-- ✅ Contribute to open-source ML libraries
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={sakshisemalti5}&animated=true" alt="LeetCode Badges" />
 
 ---
 
