@@ -1,7 +1,9 @@
 # 👋🏼 Hey there! I'm Sakshi Semalti
 
 💻 Software + AI Engineer 👩‍💻
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=green)
+
+![](https://komarev.com/ghpvc/?username=sakshisemalti&color=green)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sakshi%20Semalti-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sakshi-semalti/)
 
 ---
