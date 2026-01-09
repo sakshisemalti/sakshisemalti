@@ -15,7 +15,7 @@ I’m a Software Developer with 2+ years of hands-on experience designing and bu
 Alongside strong software engineering fundamentals, I work on Machine Learning and AI solutions, combining clean code with data-driven intelligence.
 
 > "I love building things that solve real problems — both with code and curiosity."
--->
+
 ### 🛠 Tech Stack
 
 #### 👩‍💻 Languages & Tools
