@@ -10,7 +10,6 @@
 ---
 
 ### 👩‍💻 About Me
-"I love building soliutions that solve real-world problems"
 > - Currently working on Machine Learning and AI projects<br>
 > - Open to collaborating on AI and ML initiatives<br>
 > - Continuously learning Neural Networks and Large Language Models  
