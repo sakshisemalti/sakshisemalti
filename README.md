@@ -67,6 +67,8 @@
 
 ### 🏅 My Badges
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=sakshisemalti&theme=black&animated=true&border=no-border&v=1" />
+
 <!--### 📫 Let's Connect
 
 - 🌐 [LinkedIn: sakshi-semalti](https://www.linkedin.com/in/sakshi-semalti/)
