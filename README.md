@@ -65,9 +65,7 @@
 - 🌐 [Portfolio Website](https://sakshisemalti.vercel.app/)
 -->
 
-### 🏅 My LeetCode Badges
-
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=sakshisemalti&theme=dark" alt="LeetCode Badges"/>
+### 🏅 My Badges
 
 <!--### 📫 Let's Connect
 
