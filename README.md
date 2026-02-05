@@ -11,7 +11,7 @@
 
 ### 👩‍💻 About Me
 > - Currently working on Machine Learning and AI projects<br>
-> - Open to collaborating on AI and ML initiatives<br>
+> - Open to to team up for hackathons<br>
 > - Continuously learning Neural Networks and Large Language Models  
 
 
