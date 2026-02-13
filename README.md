@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF6B6B,FF9F43,FFD93D&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sakshi+Semalti+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;AI+Engineer+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A1" alt="Typing SVG" />
 </div>
+<br>
 
 > “For me, coding is just like cracking puzzles.”
 <!-- ![](https://komarev.com/ghpvc/?username=sakshisemalti&color=green) -->
@@ -68,6 +69,12 @@
   Fraud prediction using ML on real-world imbalanced data
 
 ---
+
+<p align="center">
+  <a href="https://github.com/sakshisemalti">
+    <img src="https://komarev.com/ghpvc/?username=sakshisemalti&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
 ### 📫 Let's Connect
 
