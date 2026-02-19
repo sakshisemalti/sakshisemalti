@@ -84,7 +84,7 @@
 -->
 
 ### 🏅 My Badges
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=sakshisemalti&theme=black&border=no-border&animated=true" />
+
 
 ### 🐍 Contribution Activity
 
