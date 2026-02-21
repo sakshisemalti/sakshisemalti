@@ -86,17 +86,6 @@
 ### 🏅 My Badges
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=sakshisemalti&theme=transparent&border=no-border&animated=true" />
 
-### 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://github.com/sakshisemalti/sakshisemalti/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="800px" />
-</div>
-
----
-
-<div align="center">
-  <i>Let's connect and build something amazing!</i>
-</div>
 
 <!--### 📫 Let's Connect
 
